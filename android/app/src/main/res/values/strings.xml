@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bún Dung</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">QUÁN BÚN DUNG</string>
+    <string name="login_subtitle">Hệ thống quản lý</string>
+    <string name="username_hint">Tên đăng nhập</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_error">Tên đăng nhập hoặc mật khẩu không đúng</string>
+    <string name="login_network_error">Không thể kết nối đến server. Kiểm tra WiFi!</string>
+    
+    <!-- Waiter Screen -->
+    <string name="waiter_title">Phục vụ</string>
+    <string name="table_number_hint">Số bàn</string>
+    <string name="select_dishes">Chọn món</string>
+    <string name="add_to_cart">Thêm vào đơn</string>
+    <string name="submit_order">Gửi đơn</string>
+    <string name="cart_badge">%d món</string>
+    <string name="order_note_hint">Ghi chú (VD: ít ớt)</string>
+    <string name="order_success">Đơn hàng đã được gửi thành công!</string>
+    <string name="order_error">Không thể tạo đơn hàng</string>
+    <string name="please_enter_table">Vui lòng nhập số bàn</string>
+    <string name="please_select_items">Vui lòng chọn ít nhất 1 món</string>
+    
+    <!-- Kitchen Screen -->
+    <string name="kitchen_title">Bếp</string>
+    <string name="tab_new_orders">Đơn mới</string>
+    <string name="tab_cooking">Đang nấu</string>
+    <string name="tab_completed">Hoàn thành</string>
+    <string name="start_cooking">Bắt đầu nấu</string>
+    <string name="mark_done">Hoàn thành</string>
+    <string name="table_label">Bàn %d</string>
+    <string name="order_time">%s phút trước</string>
+    <string name="refresh_orders">Kéo xuống để làm mới</string>
+    
+    <!-- Owner Screen -->
+    <string name="owner_title">Chủ quán</string>
+    <string name="total_revenue">Tổng doanh thu</string>
+    <string name="total_orders">Tổng đơn hàng</string>
+    <string name="average_per_order">Trung bình/đơn</string>
+    <string name="top_dishes">Món bán chạy</string>
+    <string name="payment_methods">Phương thức thanh toán</string>
+    <string name="cash">Tiền mặt</string>
+    <string name="ewallet">Ví điện tử</string>
+    <string name="today">Hôm nay</string>
+    <string name="select_date">Chọn ngày</string>
+    <string name="revenue_chart_title">Doanh thu theo giờ</string>
+    
+    <!-- Menu -->
+    <string name="menu_logout">Đăng xuất</string>
+    <string name="menu_refresh">Làm mới</string>
+    <string name="logout_confirm">Bạn có chắc muốn đăng xuất?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    
+    <!-- Order Status -->
+    <string name="status_new">Đơn mới</string>
+    <string name="status_cooking">Đang nấu</string>
+    <string name="status_done">Hoàn thành</string>
+    <string name="status_paid">Đã thanh toán</string>
+    
+    <!-- Payment -->
+    <string name="payment_method">Phương thức thanh toán</string>
+    <string name="pay_now">Thanh toán</string>
+    <string name="payment_success">Thanh toán thành công!</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="loading">Đang tải…</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="error">Lỗi</string>
+    <string name="retry">Thử lại</string>
+    <string name="price_format">%,d đ</string>
+    <string name="quantity_format">x%d</string>
+    
+    <!-- Empty States -->
+    <string name="no_orders">Chưa có đơn hàng nào</string>
+    <string name="no_menu_items">Không có món ăn</string>
+</resources>
